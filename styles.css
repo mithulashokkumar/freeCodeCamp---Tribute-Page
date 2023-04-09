@@ -1,0 +1,41 @@
+#image {
+  width: 750px;
+  margin-top: 10px;
+  max-width: 100%;
+  display: block;
+}
+
+.information {
+  background-color: #d3d3d3;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.information, #img-div {
+  text-align: center;
+}
+
+.information, #img-caption {
+  padding-top: 6px;
+  font-family: sans-serif;
+}
+
+h2 {
+  font-size: 21px;
+}
+
+#title {
+  font-size: 35px;
+}
+
+#tribute-info {
+  margin-top: 50px;
+}
+
+.list {
+  padding-bottom: 15px;
+}
+
+#credits {
+  margin-top: 35px;
+}
